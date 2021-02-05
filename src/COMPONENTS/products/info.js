@@ -108,13 +108,13 @@ const ProductInfo = () => {
             <img
               className={css(animation.anm5)}
               style={{ height: 30 }}
-              src= "/love1.png" 
+              src= "/loding7.gif" 
             />
             : 
             <img
             className={css(animation.anm5)}
             style={{ height: 30 }}
-            src= "/love0.png" 
+            src= "/loding7.gif" 
           />
  
   }
@@ -291,14 +291,14 @@ const ProductInfo = () => {
               <div className="carousel-item">
                 <img
                   className="d-block w-100"
-                  src="/loding16.gif"
+                  src="/loding7.gif"
                   alt="Second slide"
                 />
               </div>
               <div className="carousel-item">
                 <img
                   className="d-block w-100"
-                  src="/loding15.gif"
+                  src="/loding7.gif"
                   alt="Third slide"
                 />
               </div>

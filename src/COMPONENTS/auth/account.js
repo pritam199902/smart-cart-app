@@ -54,7 +54,7 @@ const Account = () => {
           <div className="m-auto">
             <img
               className="m-auto"
-              src="/pritam.jpg"
+              src="/loding7.gif"
               alt="Card image cap"
               style={styles.image}
             />

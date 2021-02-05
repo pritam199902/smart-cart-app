@@ -32,7 +32,7 @@ const WishList = () => {
             <div className="row mx-0">
               {/* Image */}
               <div className="col-lg-3 col-md-3 col-sm-3 p-0 m-auto">
-                <img src="pritam.jpg" style={styles.image} />
+                <img src="/loding7.gif" style={styles.image} />
               </div>
               {/* info */}
               <div className="col-lg-9 col-md-9 col-sm-9">

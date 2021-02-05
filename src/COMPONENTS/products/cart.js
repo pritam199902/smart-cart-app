@@ -33,7 +33,7 @@ const MyCart = () => {
             <div className="row mx-0">
               {/* Image */}
               <div className="col-lg-3 col-md-3 col-sm-3 p-0">
-                <img src="clock_bc.jpg" style={styles.image} />
+                <img src="/loding7.gif" style={styles.image} />
                 {/*  */}
                 <div className="row mx-0 mt-2 justify-content-around">
                   <div className="col px-0 text-center m-auto">
